@@ -4,7 +4,7 @@ const ItemList = ({ itemsprop, handleDelete, handlePin }) => {
 	return ( 
 		<div>
 			{itemsprop.map((item, i) => (
-        		<div className='tc dib br3 pa2 ma2 grow shadow-4 w-30 pin pointer' 
+        		<div className='item-list tc dib br3 pa2 ma2 grow shadow-4 w-30 pin pointer' 
         			key={itemsprop[i].id}> 
 					<div>
 						<img 
