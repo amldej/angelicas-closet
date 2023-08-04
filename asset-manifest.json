@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/angelicas-closet/static/css/main.909ac866.css",
-    "main.js": "/angelicas-closet/static/js/main.1c6b5702.js",
+    "main.css": "/angelicas-closet/static/css/main.510c3bcb.css",
+    "main.js": "/angelicas-closet/static/js/main.2e1f1853.js",
     "static/js/787.2d95af5b.chunk.js": "/angelicas-closet/static/js/787.2d95af5b.chunk.js",
     "static/media/7greyfptank.jpg": "/angelicas-closet/static/media/7greyfptank.e25f7153da35927848fe.jpg",
     "static/media/28brandymaxidress.jpg": "/angelicas-closet/static/media/28brandymaxidress.8feb0a5ea28d32e87527.jpg",
@@ -36,12 +36,12 @@
     "static/media/10beigetube.jpg": "/angelicas-closet/static/media/10beigetube.ff726cc3b096f76c9b9d.jpg",
     "static/media/2rosenightie.jpg": "/angelicas-closet/static/media/2rosenightie.bd34d2add786472999ff.jpg",
     "index.html": "/angelicas-closet/index.html",
-    "main.909ac866.css.map": "/angelicas-closet/static/css/main.909ac866.css.map",
-    "main.1c6b5702.js.map": "/angelicas-closet/static/js/main.1c6b5702.js.map",
+    "main.510c3bcb.css.map": "/angelicas-closet/static/css/main.510c3bcb.css.map",
+    "main.2e1f1853.js.map": "/angelicas-closet/static/js/main.2e1f1853.js.map",
     "787.2d95af5b.chunk.js.map": "/angelicas-closet/static/js/787.2d95af5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.909ac866.css",
-    "static/js/main.1c6b5702.js"
+    "static/css/main.510c3bcb.css",
+    "static/js/main.2e1f1853.js"
   ]
 }
